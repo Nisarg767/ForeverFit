@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867368609837",
+    "project_id": "friendly-retina-275609",
+    "storage_bucket": "friendly-retina-275609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867368609837:android:11981fe6942fc0fddc70a4",
+        "android_client_info": {
+          "package_name": "com.example.foreverfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867368609837-jrhbsfgdodi260k99ml1ipb5lv8h8080.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKLV96kTVU118F7Skz0d7oNrezztzkiGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867368609837-jrhbsfgdodi260k99ml1ipb5lv8h8080.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
